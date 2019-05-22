@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto
+}
+.warning{
+    color: red;
+    font-weight: bold;
+    background-color: yellow;
+}
+.tablemastery {
+    border-collapse: collapse;
+    font-family: 'Roboto', sans-serif;
+    margin-left: auto;
+    border:1px solid black;
+    margin-right: auto;
+
+
+}
+.tablemastery table, td, th {
+    border: 1px solid black;
+    text-align: center;
+}
