@@ -34,7 +34,7 @@ function getChampionIDToname($id)
             return "Kayle";
             break;
         case 11:
-            return "MasterYi";
+            return "Master Yi";
             break;
         case 12:
             return "Alistar";
@@ -94,7 +94,7 @@ function getChampionIDToname($id)
             return "Karthus";
             break;
         case 31:
-            return "Chogath";
+            return "Cho'Gath";
             break;
         case 32:
             return "Amumu";
@@ -109,7 +109,7 @@ function getChampionIDToname($id)
             return "Shaco";
             break;
         case 36:
-            return "DrMundo";
+            return "Dr.Mundo";
             break;
         case 37:
             return "Sona";
@@ -175,7 +175,7 @@ function getChampionIDToname($id)
             return "Orianna";
             break;
         case 62:
-            return "MonkeyKing";
+            return "Wukong";
             break;
         case 63:
             return "Brand";
@@ -247,7 +247,7 @@ function getChampionIDToname($id)
             return "Riven";
             break;
         case 96:
-            return "KogMaw";
+            return "Kog'Maw";
             break;
         case 98:
             return "Shen";
@@ -304,7 +304,7 @@ function getChampionIDToname($id)
             return "Hecarim";
             break;
         case 121:
-            return "Khazix";
+            return "Kha'Zix";
             break;
         case 122:
             return "Darius";
@@ -337,7 +337,7 @@ function getChampionIDToname($id)
             return "Zyra";
             break;
         case 145:
-            return "Kaisa";
+            return "Kai'sa";
             break;
         case 150:
             return "Gnar";
@@ -423,8 +423,14 @@ function getChampionIDToname($id)
         case 498:
             return "Xayah";
             break;
+         case 516:
+            return "Ornn";
+            break;
         case 517:
             return "Sylas";
+            break;
+        case 518:
+            return "Neeko";
             break;
         case 555:
             return "Pyke";
